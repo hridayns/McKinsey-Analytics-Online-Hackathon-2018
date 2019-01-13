@@ -1,12 +1,12 @@
-#McKinsey Analytics Online Hackathon
+# McKinsey Analytics Online Hackathon
 
-##Problem Statement:
+## Problem Statement:
 
-###Part A:
+### Part A:
 
 From labelled data about an insurance policy, predict the probability of renewal of a policy. 
 
-###Part B:
+### Part B:
 
 Find incentives for each policy to generate maximum revenue given following relationships:
 
