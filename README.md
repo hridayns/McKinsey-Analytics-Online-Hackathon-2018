@@ -1,5 +1,7 @@
 #McKinsey Analytics Online Hackathon
 
+Ranked in top 10% of registered competitors in McKinsey Analytics Online Hackathon - 20th - 22nd July 2018.
+
 ##Problem Statement:
 
 ###Part A:
